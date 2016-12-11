@@ -1,3 +1,2 @@
 # hello-world
-just a firt test for github
-this test is to learn flow of github
+test2 for the branch readme
